@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">HelloWorld</string>
+    <string name="app_name">Clase1_Hello_World_Java</string>
     <bool name="es_correcto">false</bool>
     <array name="Lista_Nombres">
         <item name="Primer_Usuario">Luis</item>
@@ -12,3 +12,5 @@
     <integer name="pi">31416</integer>
     <fraction name="pidos">3.1416</fraction>
 </resources>
+
+
